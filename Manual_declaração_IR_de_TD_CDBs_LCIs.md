@@ -1,9 +1,10 @@
+# Manual de declaração de IR para investimentos em Renda Fixa
 CEI -> Extratos e Informativos -> Negociações de Ativos
 	De 01/01/2019 à 31/12/2019.
 
 Abrir Programa Gerador da Declaração (PGD).
 
-# Declaração de aplicações de Tesouro Direto
+## Declaração de aplicações de Tesouro Direto
 
 ```
 > Bens e Direitos
@@ -17,7 +18,7 @@ Abrir Programa Gerador da Declaração (PGD).
 		> Situação em 31/12/2019 (R$): somatória dos valores.
 ```
 
-# Declaração de aplicações de CDB
+## Declaração de aplicações de CDB
 
 ```
 > Bens e Direitos
@@ -31,7 +32,7 @@ Abrir Programa Gerador da Declaração (PGD).
 		> Situação em 31/12/2019 (R$): somatória dos valores.
 ```
 
-# Declaração de aplicações de Fundo de Investimento
+## Declaração de aplicações de Fundo de Investimento
 
 ```
 > Bens e Direitos
@@ -45,7 +46,7 @@ Abrir Programa Gerador da Declaração (PGD).
 		> Situação em 31/12/2019 (R$): somatória dos valores.
 ```
 
-# Declaração de dinheiro parado em Conta Corrente
+## Declaração de dinheiro parado em Conta Corrente
 
 ```
 > Bens e Direitos
@@ -61,9 +62,9 @@ Abrir Programa Gerador da Declaração (PGD).
 		> Situação em 31/12/2019 (R$): somatória dos valores.
 ```
 
-# Declaração dos rendimentos
+## Declaração dos rendimentos
 
-## Rendimentos sujeitos a tributação exclusiva - Valores em Reais
+### Rendimentos sujeitos a tributação exclusiva - Valores em Reais
 
 Rendimento dos títulos do TD, CDBs, LCs e dos Fundos, que já têm o imposto descontado na fonte.
 ```
@@ -76,7 +77,7 @@ Rendimento dos títulos do TD, CDBs, LCs e dos Fundos, que já têm o imposto de
 ```
 Obs.: Em caso de investimentos que não informa rendimento (R$0,00) por não ter atingido a data de vencimento, não precisa declarar!
 
-## Rendimentos isentos e não tributáveis
+### Rendimentos isentos e não tributáveis
 
 No informe da instituição por onde investiu, no caso de rendimentos isentos e não tributáveis, pode ser declarado a somatória de todos os valores de rendimento.
 ```
@@ -86,6 +87,6 @@ No informe da instituição por onde investiu, no caso de rendimentos isentos e 
 	> Valor: valor_dos_rendimentos (conforme Informe de Rendimento da instituição)
 ```
 
-# Referência
+## Referência
 Vídeo no canal Jovens de Negócios, disponível em: 
 https://www.youtube.com/watch?v=cnrcsmbn8gw
