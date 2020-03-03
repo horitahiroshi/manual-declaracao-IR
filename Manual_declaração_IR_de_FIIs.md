@@ -1,9 +1,10 @@
+# Manual de declaração de IR para Fundos de Investimento Imobiliário
 CEI -> Extratos e Informativos -> Negociações de Ativos
 	De 01/01/2019 à 31/12/2019.
 
 Abrir Programa Gerador da Declaração (PGD).
 
-# Declaração de todas as posições em FIIs
+## Declaração de todas as posições em FIIs
 
 Ex.: compra de 7 ativos de AEFI11 a preço médio de R$ 144,17 (= R$ 1.009,19).
 ```
@@ -17,7 +18,7 @@ Ex.: compra de 7 ativos de AEFI11 a preço médio de R$ 144,17 (= R$ 1.009,19).
 ```
 Obs.: valor da compra dos ativos (+ taxas de corretagem + emolumentos etc)!
 
-# Declaração de proventos de FIIs
+## Declaração de proventos de FIIs
 
 Todos rendimentos de FIIs são isentos de IR.
 
@@ -32,7 +33,7 @@ Ex.: RIO BRAVO INVEST DTVM LTDA pagou R$ 34,16 em proventos.
 			> Valor: 34,16
 ```
 
-# Em caso de venda de cotas de FIIs.
+## Em caso de venda de cotas de FIIs.
 
 Lembrando que para venda de FII, devemos preencher o DARF e pagar 20% sobre o lucro (em caso de lucro).
 ```
@@ -44,6 +45,6 @@ Lembrando que para venda de FII, devemos preencher o DARF e pagar 20% sobre o lu
 		> Imposto pago: informar impost já pago através do DARF. 
 ```
 
-# Referência
+## Referência
 Vídeo no canal Jovens de Negócios, disponível em: 
 https://www.youtube.com/watch?v=-HrJtGU-i3M
