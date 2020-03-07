@@ -7,4 +7,4 @@ Para declarações de investimento em ações, veja o [manual de declaração de
 
 Para declarações de investimento em FII's, veja o [manual de declaração de IR para FII's](./Manual_declaração_IR_de_FIIs.md).
 
-Para declarações de investimento em Renda Fixa, veja o [manual de declaração de IR para ações](./Manual_declaração_IR_de_TD_CDBs_LCIs.md).
+Para declarações de investimento em Renda Fixa, veja o [manual de declaração de IR para Renda Fixa](./Manual_declaração_IR_de_TD_CDBs_LCIs.md).
